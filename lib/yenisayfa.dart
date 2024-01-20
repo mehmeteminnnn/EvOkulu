@@ -20,7 +20,7 @@ class IkinciSayfa extends StatelessWidget {
                 // Ana sayfaya geri dönüş yapılıyor
                 Navigator.pop(context);
               },
-              child: Text('Ana Sayfaya Dön'),
+              child: Text('Ana Sayfaya Dön:)'),
             ),
           ],
         ),
